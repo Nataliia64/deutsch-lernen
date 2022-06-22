@@ -1,0 +1,171 @@
+* {
+    box-sizing: border-box;
+    list-style-type: none;
+  }
+
+  header{
+    width: 100%;
+    height: 100px;
+    color: blue;
+    text-align: center;
+    font-size: 1.5em;
+  }
+
+  main{
+    display: flex;
+    flex-direction: row;
+
+  }
+
+  .wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 49%;
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+  }
+
+  .wrapper1{
+    border-left: 1px solid red;
+  }
+
+  .wrapper2{
+    border-right: 1px solid red;
+  }
+
+  .item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid red;
+
+  }
+
+  .picture{
+    height: 200px;
+    width: 200px;
+    border: 1px solid blue;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 5px;
+  }
+
+  .word{
+    height: 100px;
+    width: 200px;
+    color: red;
+    font-size: 2.3em;
+    font-weight: bold;
+    border: 1px solid blue;
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 5px;
+  }
+
+  .sound{
+    height: 100px;
+    width: 200px;
+    padding-top: 25px;
+    margin-bottom: 5px;
+  }
+
+  .voice{
+    width: 190px;
+    border: 1px solid blue;
+    background-color: aqua;
+    border-radius: 20%;
+    padding: 5px;
+  }
+
+  .koerper{
+    background-image: url("./img/koerper.jpg");
+  }
+  .kopf{
+    background-image: url("./img/kopf.jpg");
+  }
+
+  .haar{
+    background-image: url("./img/haar.jpg");
+  }
+
+  .gesicht{
+    background-image: url("./img/gesicht.jpg");
+  }
+
+  .hals{
+    background-image: url("./img/hals.jpg");
+  }
+
+  .schulter{
+    background-image: url("./img/schulter.jpg");
+  }
+
+  .arm{
+    background-image: url("./img/arm.jpg");
+  }
+
+  .hand{
+    background-image: url("./img/hand.jpg");
+  }
+
+  .bauch{
+    background-image: url("./img/bauch.jpg");
+  }
+
+  .ruecken{
+    background-image: url("./img/ruecken.jpg");
+  }
+
+  .bein{
+    background-image: url("./img/bein.jpg");
+  }
+
+  .fuss{
+    background-image: url("./img/fuss.jpg");
+  }
+
+  .auge{
+    background-image: url("./img/auge.jpg");
+  }
+
+  .nase{
+    background-image: url("./img/nase.jpg");
+  }
+
+  .ohr{
+    background-image: url("./img/ohr.jpg");
+  }
+
+  .mund{
+    background-image: url("./img/mund.jpg");
+  }
+
+  .zunge{
+    background-image: url("./img/zunge.jpg");
+  }
+
+  .wange{
+    background-image: url("./img/wange.jpg");
+  }
+
+  .zahn{
+    background-image: url("./img/zahn.jpg");
+  }
+
+  .braue{
+    background-image: url("./img/braue.jpg");
+  }
+
+  
+
+
+
+  
+
+
+
+
+
+  
